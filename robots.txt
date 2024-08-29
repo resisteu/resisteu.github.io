@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://resisteu.github.io/sitemap.html.gz
+Sitemap: https://resisteu.github.io/app/sitemap.html.gz
+Sitemap: https://resisteu.github.io/assets/sitemap.html.gz
+Sitemap: https://resisteu.github.io/css/sitemap.html.gz
+Sitemap: https://resisteu.github.io/includes/sitemap.html.gz
+Sitemap: https://resisteu.github.io/item/sitemap.html.gz
+Sitemap: https://resisteu.github.io/src/sitemap.html.gz
